@@ -18,6 +18,12 @@ namespace RDemoViaCSharp
             using (var s = new RConnection(serverAddress, serverPort, "david", "123456"))
             {
                 s.VoidEval("library(forecast)");
+				s.VoidEval("a<-2");
+				s.VoidEval("b<-6");
+				s.VoidEval("c<-a+b");
+				var result = s["c"];
+				Console.WriteLine(result);
+				Console.ReadKey();
             }
 
             }
