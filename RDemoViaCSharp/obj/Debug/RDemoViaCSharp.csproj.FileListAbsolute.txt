@@ -1,0 +1,8 @@
+H:\mycode\RDemoViaCSharp\RDemoViaCSharp\RDemoViaCSharp\bin\Debug\RDemoViaCSharp.exe.config
+H:\mycode\RDemoViaCSharp\RDemoViaCSharp\RDemoViaCSharp\bin\Debug\RDemoViaCSharp.exe
+H:\mycode\RDemoViaCSharp\RDemoViaCSharp\RDemoViaCSharp\bin\Debug\RDemoViaCSharp.pdb
+H:\mycode\RDemoViaCSharp\RDemoViaCSharp\RDemoViaCSharp\bin\Debug\RDemoViaCSharp.RServeCLI.dll
+H:\mycode\RDemoViaCSharp\RDemoViaCSharp\RDemoViaCSharp\bin\Debug\RDemoViaCSharp.RServeCLI.pdb
+H:\mycode\RDemoViaCSharp\RDemoViaCSharp\RDemoViaCSharp\obj\Debug\RDemoViaCSharp.csprojResolveAssemblyReference.cache
+H:\mycode\RDemoViaCSharp\RDemoViaCSharp\RDemoViaCSharp\obj\Debug\RDemoViaCSharp.exe
+H:\mycode\RDemoViaCSharp\RDemoViaCSharp\RDemoViaCSharp\obj\Debug\RDemoViaCSharp.pdb

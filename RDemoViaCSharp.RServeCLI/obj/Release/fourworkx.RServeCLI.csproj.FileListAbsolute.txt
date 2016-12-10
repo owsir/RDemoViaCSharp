@@ -1,0 +1,5 @@
+C:\Work\Fourworkx\fourcasting\sourcecode\fourworkx.RServeCLI\bin\Release\fourworkx.RServeCLI.dll
+C:\Work\Fourworkx\fourcasting\sourcecode\fourworkx.RServeCLI\bin\Release\fourworkx.RServeCLI.pdb
+C:\Work\Fourworkx\fourcasting\sourcecode\fourworkx.RServeCLI\obj\Release\fourworkx.RServeCLI.csprojResolveAssemblyReference.cache
+C:\Work\Fourworkx\fourcasting\sourcecode\fourworkx.RServeCLI\obj\Release\fourworkx.RServeCLI.dll
+C:\Work\Fourworkx\fourcasting\sourcecode\fourworkx.RServeCLI\obj\Release\fourworkx.RServeCLI.pdb
